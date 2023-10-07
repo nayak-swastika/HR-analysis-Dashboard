@@ -1,5 +1,7 @@
 # HR-analysis-Dashboard
 The dataset was cleaned and queried using MySQL inside Jupyter Notebook and visualizes using PowerBI
+![Screenshot hr dashboard](https://github.com/nayak-swastika/HR-analysis-Dashboard/assets/89405829/344c2472-dac4-46ef-b48d-34f07211dbc9)
+
 
 # DATA USED
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
